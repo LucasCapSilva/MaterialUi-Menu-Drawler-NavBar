@@ -4,7 +4,7 @@ import React from 'react'
 
 function Home() {
     return (
-        <div style={{ minHeight: "100vh", marginTop: "50px" }}>
+        <div style={{ minHeight: "100vh", marginTop: "0px" }}>
             <Grid container >
 
                 <Grid item xs={6}>

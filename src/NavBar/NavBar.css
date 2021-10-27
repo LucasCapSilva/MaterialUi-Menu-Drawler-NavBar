@@ -1,8 +1,28 @@
 .cor-nav-bar{
-    background-color: #263238!important;
+    background-color: #37474F!important;
 }
 
 .cursor{
     cursor: pointer;
-    color: red;
+    color: white;
+}
+
+.cor-search{
+    cursor: pointer;
+    border-color: white!important;
+    color:white!important
+}
+
+.color-icon{
+    color:white
+}
+
+.input-style{
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+    border:4px solid white; 
+    border-radius: 25px;
+    outline: none
 }
